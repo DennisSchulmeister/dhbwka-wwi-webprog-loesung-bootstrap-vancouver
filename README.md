@@ -1,4 +1,4 @@
-# Webprogrammierung / Aufgabe / Bootstrap: Vancouver
+# Webprogrammierung / Lösung / Bootstrap: Vancouver
 
 Dies ist die **Musterlösung** zur Bootstrap-Aufgabe aus der Vorlesung **Webprogrammierung** (Wirtschaftsinformatik, DHBW Karlsruhe), Kategorie *Responsive Webdesign*.
 
